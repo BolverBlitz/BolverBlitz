@@ -10,4 +10,4 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BolverBlitz&custom_title=BolverBlitz%20Coding%20Activity&hide_border=true&theme=github&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BolverBlitz&custom_title=BolverBlitz%20Coding%20Activity&hide_border=true&theme=react-dark&bg_color=00000000&point=004880)](https://github.com/ashutosh00710/github-readme-activity-graph)
