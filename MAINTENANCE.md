@@ -1,7 +1,9 @@
-# A list to clarify keep track of my repositories
+# A list to keep track of my repositories maintenance status
 In Software development is important to know if something is still maintained or not, that's what this list is for!  
 
 - [ ] I'm dead! If this is checked, i'm dead*. All my repositories go to a person i've trusted during my lifetime**.
+
+---
 
 ## NPM-Modules
 ### Active Development
@@ -13,6 +15,7 @@ In Software development is important to know if something is still maintained or
 - [pm2-ctl](https://github.com/BolverBlitz/pm2-ctl) - Javascript module that extends PM2 API 
 - [EventWatchdog](https://github.com/BolverBlitz/EventWatchdog) - Will emit a event if not called in time 
 
+---
 
 ## Projects
 
@@ -47,7 +50,7 @@ I'll not add new stuff myself, except for security updates, but anyone is welcom
 
 
 ### Security
-I'll fix anything that's related to the security of the code if it's brought up to my attention
+I'll fix anything that's related to the security of the code if it's brought up to my attention  
 _Quick sidenote, i might still commit something here if i feel like it. This dosn't change the status of that repo._
 - [Kantek_EuleLive](https://github.com/BolverBlitz/Kantek_EuleLive) - WS based nodejs backend to show all messages found by kantek
 - [Glueckskecks-Bot](https://github.com/BolverBlitz/Glueckskecks-Bot) - A Telegram bot that will reply with a random lucky cookie saying
@@ -57,7 +60,7 @@ _Quick sidenote, i might still commit something here if i feel like it. This dos
 
 
 ### Abandoned
-Usually legacy code i'm still running somewhere but don't expect any updates
+Usually legacy code i'm still running somewhere but don't expect any updates  
 _Quick sidenote, i might still commit something here if i feel like it. This dosn't change the status of that repo._
 - [VAG-Abfahrtsmonitor](https://github.com/BolverBlitz/VAG-Abfahrtsmonitor) - A clone of start.vag 
 - [cpgg-discordbot](https://github.com/BolverBlitz/cpgg-discordbot) - Discord bot for ctrlpanel.gg with almost finished coin rewards for written messages system
@@ -72,6 +75,8 @@ _Quick sidenote, i might still commit something here if i feel like it. This dos
 
 ### Archived
 All archived repositories are dead and i'll not respond to any request / concern you might have
+
+---
 
 *Dead means: I've not written a single message on the social media apps i used last and i've not spend a single currency for 7 days. I can obvialy set a custom date in case i'm going on a vacation.
 This system runs on several servers which are prepaid 3-6 months and in a privat repositoy as action. So it should work in any case.
