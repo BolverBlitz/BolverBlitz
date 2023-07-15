@@ -48,6 +48,7 @@ I'll not add new stuff myself, except for security updates, but anyone is welcom
 
 ### Security
 I'll fix anything that's related to the security of the code if it's brought up to my attention
+_Quick sidenote, i might still commit something here if i feel like it. This dosn't change the status of that repo._
 - [Kantek_EuleLive](https://github.com/BolverBlitz/Kantek_EuleLive) - WS based nodejs backend to show all messages found by kantek
 - [Glueckskecks-Bot](https://github.com/BolverBlitz/Glueckskecks-Bot) - A Telegram bot that will reply with a random lucky cookie saying
 - [IITC-BaseUtil-Bot](https://github.com/BolverBlitz/IITC-BaseUtil-Bot) - Recreation of the original bot, so you can still use BaseUtils plugin
@@ -57,6 +58,7 @@ I'll fix anything that's related to the security of the code if it's brought up 
 
 ### Abandoned
 Usually legacy code i'm still running somewhere but don't expect any updates
+_Quick sidenote, i might still commit something here if i feel like it. This dosn't change the status of that repo._
 - [VAG-Abfahrtsmonitor](https://github.com/BolverBlitz/VAG-Abfahrtsmonitor) - A clone of start.vag 
 - [cpgg-discordbot](https://github.com/BolverBlitz/cpgg-discordbot) - Discord bot for ctrlpanel.gg with almost finished coin rewards for written messages system
 - [CoronaDE_Telegrambot](https://github.com/BolverBlitz/CoronaDE_Telegrambot) - A Telegram bot with 2 datasources to generate updates about the Covid19 virus
