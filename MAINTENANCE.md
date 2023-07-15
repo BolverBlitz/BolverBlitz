@@ -75,3 +75,15 @@ All archived repositories are dead and i'll not respond to any request / concern
 This system runs on several servers which are prepaid 3-6 months and in a privat repositoy as action. So it should work in any case.
 
 **I have no control what this person will do, but i don't have to care either :D
+
+---
+Template
+```txt
+---
+Is this project still maintained?  
+If so, to what degree?  
+I've made a list you can find [HERE](https://github.com/BolverBlitz/BolverBlitz/blob/main/MAINTENANCE.md) witch i'll keep updated, you can find the current status there.
+---
+```
+
+
