@@ -1,5 +1,5 @@
-# A list to keep track of my repositories maintenance status
-In Software development is important to know if something is still maintained or not, that's what this list is for!  
+# A List to Track the Maintenance Status of My Repositories
+In software development, it's crucial to know whether a project is still being maintained. This list serves that purpose! 
 
 - [ ] I'm dead! If this is checked, i'm dead*. All my repositories go to a person i've trusted during my lifetime**.
 
